@@ -1,0 +1,13 @@
+{
+    "display_name": "Prompt Guard",
+    "loading_order": 10,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "hydravnss",
+    "version": "1.0.0",
+    "homePage": "https://github.com/hydravnss/prompt-guard",
+    "minimum_client_version": "1.12.0",
+    "description": "FR: Empêche les personnages/LLM de recracher leurs instructions (prompt système, fiche personnage, persona, lorebook, directives OOC) dans leurs réponses. EN: Prevents characters/LLMs from leaking their instructions (system prompt, character card, persona, lorebook, OOC directives) in their replies."
+}
